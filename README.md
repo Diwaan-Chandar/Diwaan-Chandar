@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Diwaan Chandar
 - 👨🏻‍💻 I’m interested in Coding, Cooking and Travelling
-- 🤖 I’m currently learning Android Development
+- 🤖 I’m currently learning MacOS Application Developement using Swift
 - 📩 Connect with me on diwaan675@gmail.com
